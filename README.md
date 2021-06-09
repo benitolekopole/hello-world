@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi all,
+
+My name is Benito Lekopole and I like Artificial Intelligence and Python
